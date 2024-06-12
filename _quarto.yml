@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Kripa"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: serviceprovided.qmd
+        text: Service Provided
+      - href: photos.qmd
+        text: Photos
+      - href: contactdetails.qmd
+        text: Contact Deatils
+      
+     
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
+

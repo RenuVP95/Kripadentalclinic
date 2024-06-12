@@ -1,0 +1,167 @@
+---
+title: "Service provided"
+---
+
+At Kripa Multispeciality Dental Clinic, we offer a comprehensive range of dental services to meet all your oral health need
+
+<details>
+
+<summary>
+
+General Dentistry
+
+</summary>
+
+<ul>
+
+<li>Routine dental check-ups</li>
+
+<li>Teeth cleaning and polishing</li>
+
+<li>Dental fillings</li>
+
+<li>Tooth extractions</li>
+
+</ul>
+
+</details>
+
+<details>
+
+<summary>
+
+Cosmetic Dentistry
+
+</summary>
+
+<ul>
+
+<li>Teeth whitening</li>
+
+<li>Veneers</li>
+
+<li>Bonding</li>
+
+<li>Smile makeovers</li>
+
+</ul>
+
+</details>
+
+<details>
+
+<summary>
+
+Preventive Dentistry
+
+</summary>
+
+<ul>
+
+<li>Dental sealants</li>
+
+<li>Fluoride treatments</li>
+
+<li>Oral cancer screenings</li>
+
+<li>Pediatric dentistry</li>
+
+</ul>
+
+</details>
+
+<details>
+
+<summary>
+
+Orthodontics
+
+</summary>
+
+<ul>
+
+<li>Traditional braces</li>
+
+<li>Clear aligners (Invisalign)</li>
+
+<li>Retainers</li>
+
+</ul>
+
+</details>
+
+<details>
+
+<summary>
+
+Restorative Dentistry
+
+</summary>
+
+<ul>
+
+<li>Dental crowns and bridges</li>
+
+<li>Dentures (full and partial)</li>
+
+<li>Dental implants</li>
+
+<li>Root canal therapy</li>
+
+</ul>
+
+</details>
+
+<details>
+
+<summary>
+
+Periodontics
+
+</summary>
+
+<ul>
+
+<li>Gum disease treatment</li>
+
+<li>Scaling and root planing</li>
+
+<li>Gum grafting</li>
+
+</ul>
+
+</details>
+
+<details>
+
+<summary>
+
+Oral Surgery
+
+</summary>
+
+<ul>
+
+<li>Wisdom teeth removal</li>
+
+<li>Oral biopsies</li>
+
+<li>Jaw surgery</li>
+
+</ul>
+
+</details>
+
+<details>
+
+<summary>
+
+Pediatric Dentistry
+
+</summary>
+
+<ul>
+
+<li>Child dental care</li>
+
+<li>Pediatric crowns</li>

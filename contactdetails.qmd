@@ -1,0 +1,11 @@
+---
+title: "Contact details"
+---
+
+![](images/mail-04.png){width="22"} anymailid2gmail.com
+
+![](images/mobile-03.png){width="23"} 112233445566
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3940.5430026426525!2d76.82322677426798!3d9.014129089223054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b060b2b9f01b1bf%3A0x46c7c431024249a6!2sKripa%20Multispeciality%20Dental%20Clinic!5e0!3m2!1sen!2sin!4v1718183077665!5m2!1sen!2sin" width="300" height="200" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+
+</iframe>
